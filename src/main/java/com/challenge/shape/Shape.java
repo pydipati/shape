@@ -3,7 +3,7 @@ package com.challenge.shape;
 /**
 * <h1>This is super shape interface to support Triangle</h1>
 * <b>Note:</b> 
-* This interface is shape interface which supports all triangle types, all rectangles types and ellipse (circle & ellipse)
+* This is shape interface which supports all triangle types, all rectangles types and ellipse (circle & ellipse)
 * <p>
 *  
 *
