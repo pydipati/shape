@@ -1,7 +1,7 @@
 package com.challenge.shape;
 
 /**
-* <h1>This is abstract factory class that gives back appropriate Shape back</h1>
+* <h1>This is abstract factory class that gives back appropriate Shape</h1>
 *  
 *
 * @author  Karuna P
