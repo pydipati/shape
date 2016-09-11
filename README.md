@@ -20,11 +20,11 @@ This project is built & tested with
 
 Assumptions/Notes:
 =================
-1. Though intial requirements are related to triangle, it is assumed to expand to triangle, ellipse..etc 
+1. Though intial requirements were related to triangle, it was designed in such a way that it could be expanded to triangle, ellipse..etc 
 
 2. Abstract Factory pattern has been used 
 
-3. Though getArea(), getCircumference() methods are mentioned, but not implemented
+3. Though getArea(), getCircumference() methods were mentioned, but not implemented
 
 4. Empty packages related to ellipse, rectange are created, but left empty for future expansion 
 
