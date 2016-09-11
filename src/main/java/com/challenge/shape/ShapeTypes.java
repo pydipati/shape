@@ -6,7 +6,7 @@ public enum ShapeTypes {
 	/*
 	 * FUTUTE USE
 	 * RECTANGLE TYPES (square, rectangle..etc)
-	 * ELLIPSE (circle, ellipse)
+	 * ELLIPSE TYPES (circle, ellipse)
 	 */
 
 }
