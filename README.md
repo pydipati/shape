@@ -21,7 +21,7 @@ Assumptions/Notes:
 
 2. Abstract Factory pattern has been used 
 
-3. Though getArea(), getCircumference() methods were mentioned, but not implemented
+3. getArea(), getCircumference() methods were mentioned, but not implemented
 
 4. Empty packages related to ellipse, rectange are created, but left empty for future expansion 
 
